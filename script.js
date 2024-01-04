@@ -7,3 +7,5 @@ function display(){
     count = count+1;
     document.querySelector('p').innerText = "Clicks: " + count;
 }
+
+hello 
